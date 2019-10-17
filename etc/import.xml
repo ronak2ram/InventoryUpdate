@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @package Raghu_InventoryUpdate
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_ImportExport:etc/import.xsd">
+    <entity name="raghu_inventoryupdate" label="Inventory Update" model="Raghu\InventoryUpdate\Model\Import\Sku" behaviorModel="Raghu\InventoryUpdate\Model\Source\Import\Behavior\Sku"/>
+</config>
